@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <!--<item
+            android:id="@+id/bot_home"
+            android:icon="@mipmap/home"
+            android:title="Home" />-->
+        <item
+            android:id="@+id/bot_activities"
+            android:icon="@drawable/ic_stat_name"
+            android:title="Add" />
+        <!--  <item
+              android:id="@+id/bot_trend"
+              android:icon="@mipmap/fire"
+              android:title="Trending" />-->
+        <item
+            android:id="@+id/bot_bookings"
+            android:icon="@drawable/ic_notifications_active_black_24dp"
+            android:title="Notifications" />
+        <item
+            android:id="@+id/bot_profile"
+            android:icon="@mipmap/profile"
+            android:title="Profile" />
+    </group>
+</menu>

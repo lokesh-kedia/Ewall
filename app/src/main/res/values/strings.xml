@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E~wall</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_application_id" translatable="false">158342228386458</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb158342228386458</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gen"
+            android:icon="@mipmap/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_health"
+            android:icon="@mipmap/fire"
+            android:title="Trending" />
+        <item
+            android:id="@+id/nav_science"
+            android:icon="@mipmap/categ"
+            android:title="Category" />
+        <!--<item
+             android:id="@+id/nav_top"
+             android:icon="@mipmap/diagram"
+             android:title="Videos" />-->
+        <!--   <item
+               android:id="@+id/nav_ent"
+               android:icon="@mipmap/login"
+               android:title="Login" />-->
+        <item
+            android:id="@+id/nav_sports"
+            android:icon="@mipmap/share"
+            android:title="Share" />
+        <item
+            android:id="@+id/nav_tech"
+            android:icon="@mipmap/rate"
+            android:title="Rate Us" />
+       <!-- <item
+            android:id="@+id/nav_bus"
+            android:icon="@mipmap/feedback"
+            android:title="Tutorial" />-->
+        <item
+            android:id="@+id/nav_saved"
+            android:icon="@mipmap/information"
+            android:title="About us" />
+        <!--<item
+            android:id="@+id/nav_blog"
+            android:icon="@mipmap/information"
+            android:title="Blog" />-->
+    </group>
+</menu>

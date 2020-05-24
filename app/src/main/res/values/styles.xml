@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:itemBackground">#000</item>
+    </style>
+
+    <style name="mypb" parent="Base.Widget.AppCompat.ProgressBar">
+        <item name="colorAccent">@color/colorPrimaryDark</item>
+    </style>
+
+
+</resources>
